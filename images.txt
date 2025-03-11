@@ -3,6 +3,6 @@ alpine
 portainer/portainer
 ollama/ollama:0.5.10
 redis:6.2
-redis-commander:0.8.0
-pgvector:v0.5.0
-pgadmin4:9.1.0
+spryker/redis-commander:0.8.0
+ankane/pgvector:v0.5.0
+dpage/pgadmin4:9.1.0
